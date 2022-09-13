@@ -8,9 +8,8 @@
 
 <p align="center">
  <a href="#Descrição">Descrição</a>
- <a href="#Features">Features</a>
- <a href="#Pré-requisitos">Pré-requisitos</a>
  <a href="#Tecnologias">Tecnologias</a>
+ <a href="#Pré-requisitos">Pré-requisitos</a>
  <a href="#autor">Autor</a>
 </p>
 
@@ -18,12 +17,22 @@
 	  Status: Finalizado.
 </h4>
 
-### Features
+<br/>
 
-- [x] Cadastro de usuário
-- [x] Login
-- [x] Reset de senha
-- [x] Comentários nos posts
+<div align="center">
+ <h3>🛠 Tecnologias </h3>
+</div>
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+</div>
+
+<br/>
+
+### Caso você prefira ver a aplicação sem roda na sua maquina
+
+O link para o a pagina: [Dogs](https://lucas-a-araujo.github.io/Dogs/)
 
 ### Pré-requisitos
 
@@ -48,16 +57,9 @@ $ npm start
 # O projeto inciará na porta:3000
 ```
 
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [React](https://pt-br.reactjs.org/)
-- [Victory](https://formidable.com/open-source/victory/)
-- [History](https://github.com/remix-run/history/tree/3e9dab413f4eda8d6bce565388c5ddb7aeff9f7e/docs)
-
 
 ### Autor
 
 Feito por Lucas Alves
-[Linkedin](https://www.linkedin.com/in/lucas-alves-476b281aa/)
+<br/>
+<a href="https://www.linkedin.com/in/lucas-alves-476b281aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
