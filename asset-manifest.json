@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Dogs/static/css/main.06694b5a.chunk.css",
+    "main.js": "/Dogs/static/js/main.8b25f0a1.chunk.js",
+    "main.js.map": "/Dogs/static/js/main.8b25f0a1.chunk.js.map",
+    "runtime-main.js": "/Dogs/static/js/runtime-main.4d2014d8.js",
+    "runtime-main.js.map": "/Dogs/static/js/runtime-main.4d2014d8.js.map",
+    "static/js/2.8c2d6067.chunk.js": "/Dogs/static/js/2.8c2d6067.chunk.js",
+    "static/js/2.8c2d6067.chunk.js.map": "/Dogs/static/js/2.8c2d6067.chunk.js.map",
+    "static/js/3.aac3d68b.chunk.js": "/Dogs/static/js/3.aac3d68b.chunk.js",
+    "static/js/3.aac3d68b.chunk.js.map": "/Dogs/static/js/3.aac3d68b.chunk.js.map",
+    "static/css/4.bee358b8.chunk.css": "/Dogs/static/css/4.bee358b8.chunk.css",
+    "static/js/4.5571146b.chunk.js": "/Dogs/static/js/4.5571146b.chunk.js",
+    "static/js/4.5571146b.chunk.js.map": "/Dogs/static/js/4.5571146b.chunk.js.map",
+    "index.html": "/Dogs/index.html",
+    "precache-manifest.904c57d4cc2fe5631bb417576e63051a.js": "/Dogs/precache-manifest.904c57d4cc2fe5631bb417576e63051a.js",
+    "service-worker.js": "/Dogs/service-worker.js",
+    "static/css/4.bee358b8.chunk.css.map": "/Dogs/static/css/4.bee358b8.chunk.css.map",
+    "static/css/main.06694b5a.chunk.css.map": "/Dogs/static/css/main.06694b5a.chunk.css.map",
+    "static/js/3.aac3d68b.chunk.js.LICENSE.txt": "/Dogs/static/js/3.aac3d68b.chunk.js.LICENSE.txt",
+    "static/js/main.8b25f0a1.chunk.js.LICENSE.txt": "/Dogs/static/js/main.8b25f0a1.chunk.js.LICENSE.txt",
+    "static/media/adicionar.4a6d6ceb.svg": "/Dogs/static/media/adicionar.4a6d6ceb.svg",
+    "static/media/dogs-footer.8cc31290.svg": "/Dogs/static/media/dogs-footer.8cc31290.svg",
+    "static/media/dogs.849a6443.svg": "/Dogs/static/media/dogs.849a6443.svg",
+    "static/media/enviar.9f80ad3d.svg": "/Dogs/static/media/enviar.9f80ad3d.svg",
+    "static/media/estatisticas.5b48807f.svg": "/Dogs/static/media/estatisticas.5b48807f.svg",
+    "static/media/feed.35f798d0.svg": "/Dogs/static/media/feed.35f798d0.svg",
+    "static/media/Login.module.css": "/Dogs/static/media/login.824d7d85.jpg",
+    "static/media/sair.4175ea72.svg": "/Dogs/static/media/sair.4175ea72.svg",
+    "static/media/Header.module.css": "/Dogs/static/media/usuario.dc442992.svg",
+    "static/media/PhotoContent.module.css": "/Dogs/static/media/visualizacao-black.957befc3.svg",
+    "static/media/FeedPhotosItem.module.css": "/Dogs/static/media/visualizacao.4ce15ed8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d2014d8.js",
+    "static/js/3.aac3d68b.chunk.js",
+    "static/css/main.06694b5a.chunk.css",
+    "static/js/main.8b25f0a1.chunk.js"
+  ]
+}
